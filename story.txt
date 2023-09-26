@@ -73,6 +73,8 @@ git commit -m "edit file1"
 # push changes to github
 git push
 
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request
+https://support.atlassian.com/bitbucket-cloud/docs/check-out-a-branch/
 
 
 
