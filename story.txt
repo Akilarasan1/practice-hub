@@ -2,4 +2,4 @@ The mean (average) of a data set is found by adding all numbers
 in the data set and then dividing by the number of values in set. 
 The median is the middle value when a data set is ordered from least to greatest.
 The mode isnumber that occurs most often in a data set.
-Created by Sal Khan.
+Created by Salman Khan.
