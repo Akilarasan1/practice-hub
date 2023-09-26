@@ -1,8 +1,8 @@
 The mean (average) of a data set is found by adding all numbers 
-in the data set and then dividing by the number of values in the set. 
+in the data set and then dividing by the number of values in set. 
 The median is the middle value when a data set is ordered from least to greatest.
-
-
 As we launch AI systems from the lab into the real world, we need to be prepared for these systems to break in surprising and catastrophic ways. It’s already happening. 
 Last year, for example, a chess-playing robot arm in Moscow fractured the finger of a seven-year-old boy.
-The robot grabbed the boy’s finger as he was moving a chess piece and let go only after nearby adults managed to pry open its claws.
+The robot grabbed the boy’s finger as he was moving a chess piece and let go only after nearby adults managed to pry open its claws
+The mode isnumber that occurs most often in a data set.
+Created by Salman Khan.
