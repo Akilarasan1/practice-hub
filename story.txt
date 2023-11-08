@@ -78,3 +78,11 @@ https://support.atlassian.com/bitbucket-cloud/docs/check-out-a-branch/
 
 
 
+MYSELF FOR UNDERSTANDING GIT COMMANDS
+ GIT BASH COMMANDS
+   
+   1.git init
+   2.git remote add projectname(origin) project url
+   3.git add .
+   4.git commit -am "message"
+   5.git push
