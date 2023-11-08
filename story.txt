@@ -78,11 +78,17 @@ https://support.atlassian.com/bitbucket-cloud/docs/check-out-a-branch/
 
 
 
-MYSELF FOR UNDERSTANDING GIT COMMANDS
+MYPersecptive FOR UNDERSTANDING GIT COMMANDS
  GIT BASH COMMANDS
    
-   1.git init
-   2.git remote add projectname(origin) project url
-   3.git add .
-   4.git commit -am "message"
-   5.git push
+1. git init: Initializes a new Git repository in the current directory.
+
+2. git remote add ProjectName(origin) ProjectUrl: Adds a remote repository with a name (e.g., "origin") 
+           and a URL (e.g., ProjectUrl) to connect your local repository to a remote repository.
+
+3. git add . : Stages all the changes in your current directory for the next commit.
+
+4. git commit -am "message": Commits the staged changes with a descriptive message.
+
+5. git push  --set-upstream ProjectName BranchName: Pushes your committed changes to the remote repository named
+          "origin" (or "ProjectName" as you've named it), updating the remote repository with your changes.
