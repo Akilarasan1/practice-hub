@@ -90,5 +90,25 @@ MYPersecptive FOR UNDERSTANDING GIT COMMANDS
 
 4. git commit -am "message": Commits the staged changes with a descriptive message.
 
-5. git push  --set-upstream ProjectName BranchName: Pushes your committed changes to the remote repository named
-          "origin" (or "ProjectName" as you've named it), updating the remote repository with your changes.
+5. 
+   a. git push  --set-upstream ProjectName BranchName: Pushes your committed changes to the remote repository named
+          "origin" (or "ProjectName" as you've named it), updating the remote repository with your changes. 
+          --> this when you do first commit
+   b. git push -->second time or reinitialed do this command
+
+
+GIT RESET--> Get old code, if there any issues in current code
+ STEP 1.
+         git log -10 -->it gives commit information and login details just oneline
+
+               it seems example like this example --> 6ave4A
+ STEP 2.
+         git reset --hard  6ave4A
+
+               it discard all changes in your current code.
+
+               soft  -keep all changes
+               mixed  -keep working copy but reset index
+               hard   - discard all changes 
+STEP 3.
+        
